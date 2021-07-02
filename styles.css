@@ -4,7 +4,6 @@ body {
   color: purple;
 }
 nav ul {
-  background: #545350;
   display: flex;
   justify-content: space-around;
 }
