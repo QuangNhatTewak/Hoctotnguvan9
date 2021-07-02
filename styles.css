@@ -8,4 +8,12 @@ nav ul {
   display: flex;
   justify-content: space-around;
 }
+nav ul li {
+  list-style-type: none;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+nav ul li a {
+  text-decoration: none;
+}
   
