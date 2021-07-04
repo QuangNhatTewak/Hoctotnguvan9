@@ -1,5 +1,6 @@
 body {
-  background-color: LightSkyBlue;
+  background-image: url("download.png");
+  background-color: #cccccc;
   font-family: sans-serif;
   color: purple;
 }
@@ -22,4 +23,8 @@ h1 {
 }
 * {
 text-decoration: none;
+}
+
+.container {
+
 }
