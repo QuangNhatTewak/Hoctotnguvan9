@@ -29,7 +29,7 @@ a{
   color: #fff;
   display: inline-block;
   line-height: 1;
-  text_decoration: none;
+  text-decoration: none;
   @include border-radius(2px);
   &:hover{
   @include box-shadow(0 0 0 1px #fff);
